@@ -1,4 +1,4 @@
-*.class
+*.sh
 target/
 *.iml
 .idea/
